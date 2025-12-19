@@ -55,11 +55,10 @@ The goal was to provide data-driven recommendations for three distinct user grou
 
 ## 📊 Dashboard Preview
 
-*(Note: Download the PDF in the reports folder for the full high-res view)*
 
 > **Executive Summary:** A high-level view of menu composition and caloric density.  
-> ![Dashboard Preview](https://via.placeholder.com/800x400?text=Upload+Your+Dashboard.png+Here)
-> *(To replace this image: Drag and drop your dashboard screenshot into this editor while editing)*
+<img width="885" height="495" alt="DashBoard" src="https://github.com/user-attachments/assets/1cf20d77-ad38-4038-8924-39a1882aa2d9" />
+
 
 ---
 
@@ -71,8 +70,8 @@ The goal was to provide data-driven recommendations for three distinct user grou
 ---
 
 ## 📬 Contact
-* **Author:** [Your Name]
-* **LinkedIn:** [Link to your Profile]
-* **Email:** [Your Email]
+* **Author:** Amr Khaled Mohamed
+* **LinkedIn:** www.linkedin.com/in/amr-khaled-ak
+* **Email:** amr6781778@gmail.com
 
 > *"The goal is to turn data into information, and information into insight."* – Carly Fiorina
